@@ -1,0 +1,115 @@
+Date: 4/9/2025
+Time: 18:22
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 28092025: achei <= 25000: [23180]
+--------------------
+Date: 4/9/2025
+Time: 18:23
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 29092025: achei <= 25000: [23180]
+--------------------
+Date: 4/9/2025
+Time: 18:35
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 27092025: achei <= 25000: [20740, 20740, 23180, 23180]
+--------------------
+Date: 4/9/2025
+Time: 18:43
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 28092025: achei <= 25000: [23180]
+--------------------
+Date: 4/9/2025
+Time: 18:44
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 29092025: achei <= 25000: [23180]
+--------------------
+Date: 4/9/2025
+Time: 21:12
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 29092025: achei <= 25000: [23180]
+--------------------
+Date: 4/9/2025
+Time: 22:1
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 25092025: achei <= 25000: [20740, 20740]
+--------------------
+Date: 4/9/2025
+Time: 22:7
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 28092025: achei <= 25000: [23180]
+--------------------
+Date: 4/9/2025
+Time: 22:42
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 28092025: achei <= 25000: [23180]
+--------------------
+Date: 5/9/2025
+Time: 8:44
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 28092025: achei <= 25000: [23180]
+--------------------
+Date: 5/9/2025
+Time: 9:20
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 28092025: achei <= 25000: [23180]
+--------------------
+Date: 5/9/2025
+Time: 10:27
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 23092025: achei <= 25000: [24640]
+--------------------
+Date: 5/9/2025
+Time: 10:31
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 26092025: achei <= 25000: [21280]
+--------------------
+Date: 5/9/2025
+Time: 10:33
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 28092025: achei <= 25000: [21280]
+--------------------
+Date: 5/9/2025
+Time: 15:22
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 26092025: achei <= 25000: [17920]
+--------------------
+Date: 5/9/2025
+Time: 15:23
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 28092025: achei <= 25000: [17920]
+--------------------
+Date: 5/9/2025
+Time: 15:24
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 29092025: achei <= 25000: [17920]
+--------------------
+Date: 5/9/2025
+Time: 15:46
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 26092025: achei <= 25000: [17920]
+--------------------
+Date: 5/9/2025
+Time: 15:48
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 28092025: achei <= 25000: [17920]
+--------------------
+Date: 5/9/2025
+Time: 15:53
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 26092025: achei <= 25000: [17920]
+--------------------
+Date: 5/9/2025
+Time: 15:55
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 28092025: achei <= 25000: [17920]
+--------------------
+Date: 5/9/2025
+Time: 15:56
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 29092025: achei <= 25000: [17920]
+--------------------
+Date: 5/9/2025
+Time: 16:18
+Phone Number: +5581994039286
+Message: [ALERTA MILHAS] 26092025: achei <= 25000: [17920]
+--------------------
